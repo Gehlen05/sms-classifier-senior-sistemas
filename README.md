@@ -33,6 +33,9 @@
 
 **Classificação**
    
-    É o projeto sms_classifier_regressao_logistica_floresta_decisao_token_senior_sistemas que foi implementado os modelos de classificação.
+    Foram implementados dois projetos de classificação  o script 
+    sms_classifier_regressao_logistica_floresta_decisao_token_senior_sistemas e o 
+    sms_classifier_rede_neural_token_senior_sistemas.
+    
 
 
