@@ -5,8 +5,10 @@
     Este projeto consiste em construir gráfico para analisar os dados disponíveis como entrada e desenvolver um modelo para classificar os sms como comun ou spam.
 
 ## Pré-requesitos de Execução
-    Este projeto foi desenvolvido no coolab. Para executá-lo é necessário apenas clicar no "OPEN IN COLAB" no projeto. 
-    Também é necessário que o arquivo csv esteja dentro do drive na pasta Colab Notebooks junto com o projeto.
+    Este projeto foi desenvolvido no coolab. Para executá-lo é necessário apenas clicar no 
+    "OPEN IN COLAB" no projeto. 
+    Também é necessário que o arquivo csv esteja dentro do drive na pasta 
+    Colab Notebooks junto com o projeto.
     Caso não exista a pasta é só criar uma com o nome Colab Notebooks.
     Ele pedirá liberação para se conectar ao drive é necessário autorizar.
 
